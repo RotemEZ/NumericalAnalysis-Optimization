@@ -21,4 +21,4 @@ This PDF file contains the detailed instructions and requirements for the Numeri
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/numerical-analysis-optimization.git
+   git clone https://github.com/RotemEZ/NumericalAnalysis-Optimization.git
