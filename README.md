@@ -18,7 +18,19 @@ Contains methods for fitting a shape to noisy data points sampled from a contour
 
 6. **NA_Final_Task.pdf:**
 This PDF file contains the detailed instructions and requirements for the Numerical Analysis final task, including theoretical questions and grading policies for each assignment.
-## Installation
+## Requirements
+- Python 3.x
+- This project relies on the following Python packages: Numpy, time, random, collections, sklearn (for shape_area.py only).
+  You can install the necessary packages using pip. For example:
+  ```bash
+  pip install numpy
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/RotemEZ/NumericalAnalysis-Optimization.git
+2. Run any of the Python files to see the implemented numerical methods and algorithms:
+   ```bash
+   python <file_name>.py
+Replace <file_name> with the name of the script you wish to run.
+## Acknowledgements
+This project was completed as part of a numerical analysis and optimization course. Special thanks to the course instructor and the provided materials. The project received a score of 100 was placed second in the class.
