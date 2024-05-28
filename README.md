@@ -33,4 +33,4 @@ This PDF file contains the detailed instructions and requirements for the Numeri
    python <file_name>.py
 Replace <file_name> with the name of the script you wish to run.
 ## Acknowledgements
-This project was completed as part of a numerical analysis and optimization course. Special thanks to the course instructor and the provided materials. The project received a score of 100 was placed second in the class.
+This project was completed as part of a numerical analysis and optimization course. Special thanks to the course instructor and the provided materials. The project received a score of 100 and was placed second in the class, in terms of performance and efficiency.
